@@ -1,6 +1,8 @@
 # Face_Detection
 ``` bash
 ├───Eye_and_Face_Detection/
+|   ├───Output/
+|   |   ├───detected_face_eye.png
 │   ├───data/
 │   │   ├───haarcascade_eye.xml
 │   │   └───haarcascade_frontalface_alt.xml
