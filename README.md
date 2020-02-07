@@ -24,3 +24,9 @@
 ![image](Eye_and_Face_Detection/Output/detected_face_eye.png)
 
 ## Refrences
+
+- [OpenCV](https://opencv.org)
+
+- [Pyimagesearch](https://www.pyimagesearch.com)
+
+- [Mathworks](https://in.mathworks.com)
