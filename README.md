@@ -17,6 +17,6 @@
 ## Results
 - input image
 
-![image](color_correction/results/RESULT1.png)
+![image](Eye_and_Face_Detection/Test_Image/face1.jfif)
 
 
