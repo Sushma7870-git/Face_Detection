@@ -15,6 +15,8 @@
 └───README.md
 ```
 ## Results
+- input image
 
+![image](color_correction/results/RESULT1.png)
 
 
